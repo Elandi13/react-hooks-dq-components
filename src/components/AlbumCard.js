@@ -1,4 +1,5 @@
 import React from "react";
+import AlbumList from "./AlbumList"
 
 function AlbumCard({ name, image, genre }) {
   return (
